@@ -3,10 +3,12 @@ languageCode = 'en-us'
 title = 'My Site'
 theme = "hugo-book"
 
+
+
 # Needed for mermaid/katex shortcodes
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  tableOfContents:
-    startLevel: 1
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
