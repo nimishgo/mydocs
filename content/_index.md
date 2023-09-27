@@ -14,5 +14,10 @@ bookToc : false
 </br>
 *~MF DOOM*
 
+[Linkedin](https://www.linkedin.com/in/nimishgo/)
+
+[Github](https://github.com/nimishgo)
+
 [LeetCode](https://leetcode.com/Nimish2711/)
+
 [LetterBoxd](https://letterboxd.com/nimisgo/)

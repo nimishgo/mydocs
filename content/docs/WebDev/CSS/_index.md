@@ -1,11 +1,10 @@
 ---
-title: "WebDev"
-weight : 3
-bookFlatSection: true
+title: "Css"
+weight: 1
+# bookFlatSection: false
 # bookToc: true
 # bookHidden: false
-bookCollapseSection: true
+# bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
 ---
-
